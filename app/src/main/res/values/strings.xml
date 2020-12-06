@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareTo</string>
+    <string name="OpApk1">安装应用</string>
+    <string name="OpShare">转为APK</string>
+    <string name="OpView">分享面板</string>
+    <string name="tip_notsupport">不支持的操作</string>
+</resources>
